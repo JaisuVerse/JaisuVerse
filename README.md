@@ -37,11 +37,12 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 
 ## 👋 About Me
 
-- I’m a 12th grade student who enjoys learning by building real projects.
-- I mainly work on the backend using Python (Flask, FastAPI) and Node.js (Express).
-- I’ve built web applications with REST APIs and role-based features, and I’m interested in backend systems and scalability.
+- I'm Aditya Jaiswal, a developer who enjoys building real-world software and continuously learning through projects.
+- I'm interested in backend architecture, APIs, databases, geospatial applications, and building products that solve real problems.
+- Currently exploring system design, performance optimization, and open-source development.
 
 🌐 **Portfolio:** [https://hellocoder.online](https://hellocoder.online)
+
 
 ---
 
@@ -60,6 +61,7 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 ### Frontend
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -73,7 +75,7 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio" />
+<!-- <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio" /> -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -82,6 +84,7 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 ---
